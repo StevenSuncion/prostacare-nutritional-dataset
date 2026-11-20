@@ -1,0 +1,76 @@
+N,Nombre_del_alimento,Tipo,Componente_principal,Componente_acompañamiento,Gramos_unidad_principal,Gramos_unidad_acomp,Porcion_sugerida_g,Proteina_g_100g,Carbohidratos_g_100g,Grasas_g_100g,Vit_A_mcg_100g,Vit_E_mg_100g,Vit_B6_mg_100g,Vit_B12_mcg_100g,Zinc_mg_100g
+1,Huevo cocido,Simple,-,-,50,-,50,12.6,1.1,10.6,160,1.05,0.17,1.1,1.3
+2,Pechuga de pollo,Simple,-,-,100,-,120,31.0,0,3.6,9,0.27,0.86,0.34,1.0
+3,Arroz integral cocido,Simple,-,-,100,-,150,2.6,23.5,0.9,0,0.11,0.15,0,0.6
+4,Pan con tamal,Compuesto,Pan,Tamal,60,150,210,6.8,45.2,8.3,42,0.35,0.12,0.08,0.9
+5,Pan con chicharrón,Compuesto,Pan,Chicharrón de cerdo,60,80,140,15.4,32.1,18.7,5,0.22,0.34,0.41,2.1
+6,Leche descremada,Simple,-,-,240,-,240,3.4,4.8,0.2,10,0.01,0.04,0.45,0.4
+7,Yogur griego natural,Simple,-,-,200,-,170,10.0,3.6,0.4,7,0.08,0.05,0.75,0.6
+8,Almendras,Simple,-,-,28,-,28,21.2,21.6,49.9,0.5,25.6,0.14,0,3.1
+9,Salmón al horno,Simple,-,-,100,-,150,25.4,0,13.4,40,1.98,0.94,3.05,0.64
+10,Lentejas cocidas,Simple,-,-,100,-,180,9.0,20.1,0.4,2,0.11,0.18,0,1.3
+11,Espinaca cocida,Simple,-,-,100,-,90,2.9,3.6,0.4,469,2.03,0.24,0,0.53
+12,Zanahoria al vapor,Simple,-,-,100,-,80,0.9,9.6,0.2,835,0.66,0.14,0,0.24
+13,Brócoli al vapor,Simple,-,-,100,-,85,2.8,7.0,0.4,31,0.78,0.18,0,0.41
+14,Aguacate (palta),Simple,-,-,100,-,50,2.0,8.5,14.7,7,2.07,0.26,0,0.64
+15,Pan integral,Simple,-,-,30,-,60,9.0,41.3,3.5,0,0.38,0.23,0,1.65
+16,Avena en hojuelas,Simple,-,-,40,-,80,13.2,66.3,6.9,0,0.42,0.12,0,3.64
+17,Plátano madiano,Simple,-,-,118,-,118,1.1,22.8,0.3,3,0.10,0.37,0,0.15
+18,Manzana verde,Simple,-,-,182,-,182,0.3,14.0,0.2,3,0.18,0.04,0,0.04
+19,Naranja,Simple,-,-,140,-,140,0.9,11.8,0.1,11,0.18,0.06,0,0.07
+20,Pescado blanco (merluza),Simple,-,-,100,-,150,17.8,0,1.3,10,0.36,0.23,1.56,0.43
+21,Quinua cocida,Simple,-,-,100,-,185,4.4,21.3,1.9,1,0.63,0.12,0,1.1
+22,Camote (batata),Simple,-,-,100,-,130,1.6,20.1,0.1,709,0.26,0.21,0,0.30
+23,Papa blanca cocida,Simple,-,-,100,-,150,2.0,17.5,0.1,0,0.01,0.30,0,0.29
+24,Tomate fresco,Simple,-,-,100,-,123,0.9,3.9,0.2,42,0.54,0.08,0,0.17
+25,Lechuga romana,Simple,-,-,100,-,85,1.4,3.3,0.3,436,0.13,0.07,0,0.23
+26,Pera de agua,Simple,-,-,178,-,178,0.4,15.5,0.1,1,0.12,0.03,0,0.10
+27,Durazno mediano,Simple,-,-,150,-,150,0.9,9.5,0.3,16,0.73,0.03,0,0.17
+28,Fresa,Simple,-,-,100,-,152,0.7,7.7,0.3,1,0.29,0.05,0,0.14
+29,Papaya picada,Simple,-,-,140,-,140,0.5,11.0,0.1,47,0.30,0.02,0,0.08
+30,Mandarina,Simple,-,-,88,-,88,0.8,13.3,0.3,34,0.20,0.08,0,0.07
+31,Nueces,Simple,-,-,28,-,28,15.2,13.7,65.2,1,0.70,0.54,0,3.09
+32,Garbanzos cocidos,Simple,-,-,100,-,165,8.9,27.4,2.6,3,0.35,0.14,0,1.53
+33,Pavo a la plancha,Simple,-,-,100,-,120,29.0,0,1.7,0,0.10,0.63,0.40,2.0
+34,Aceite de oliva extra virgen,Simple,-,-,14,-,14,0,0,100.0,0,14.4,0,0,0
+35,Queso fresco,Simple,-,-,45,-,45,18.3,3.4,6.1,29,0.08,0.08,0.27,1.25
+36,Calabaza (zapallo),Simple,-,-,100,-,116,1.0,6.5,0.1,369,1.06,0.06,0,0.32
+37,Semillas de calabaza (pepitas),Simple,-,-,28,-,28,30.2,10.7,49.1,1,0.56,0.14,0,7.81
+38,Filete de pescado azul (bonito),Simple,-,-,100,-,150,26.2,0,11.6,86,1.45,0.58,8.94,0.98
+39,Filete de pescado azul (caballa),Simple,-,-,100,-,150,18.6,0,13.9,50,1.52,0.40,8.71,0.63
+40,Pan con huevo,Compuesto,Pan,Huevo frito,60,60,120,13.8,30.5,12.4,102,0.87,0.16,0.66,1.42
+41,Pan con queso,Compuesto,Pan,Queso fresco,60,45,105,16.2,28.2,8.2,15,0.31,0.15,0.16,1.73
+42,Pan con palta,Compuesto,Pan,Aguacate,60,50,110,5.5,28.9,8.9,3.5,1.42,0.27,0,1.15
+43,Arroz con pollo,Compuesto,Arroz blanco,Pollo desmenuzado,200,120,320,15.6,41.2,5.8,14,0.38,0.54,0.20,1.34
+44,Pasta integral con atún,Compuesto,Pasta integral,Atún en agua,150,100,250,18.7,42.5,3.1,18,0.62,0.34,2.65,1.08
+45,Ensalada mixta (brócoli, zanahoria, espinaca),Simple,-,-,200,-,200,2.2,6.7,0.3,445,1.16,0.19,0,0.39
+46,Yogur natural descremado,Simple,-,-,200,-,200,3.5,7.0,0.2,5,0.02,0.05,0.50,0.59
+47,Batido de yogur griego con plátano,Compuesto,Yogur griego,Plátano picado,170,59,229,7.2,11.8,0.4,5.6,0.09,0.24,0.52,0.48
+48,Tortilla de claras de huevo,Simple,-,-,100,-,100,10.9,0.7,0.2,0,0,0.01,0.08,0.02
+49,Sopa de verduras licuada,Simple,-,-,250,-,250,1.8,8.5,0.5,215,0.64,0.12,0,0.28
+50,Puré de papas,Simple,-,-,100,-,210,2.0,15.8,4.3,21,0.08,0.25,0.03,0.28
+51,Puré de calabaza (zapallo),Simple,-,-,100,-,245,0.8,8.1,0.2,558,1.29,0.09,0,0.42
+52,Puré de zanahoria,Simple,-,-,100,-,156,0.9,11.3,0.3,1148,0.90,0.17,0,0.32
+53,Crema de espinacas,Simple,-,-,100,-,180,2.3,5.2,2.1,361,1.56,0.19,0,0.43
+54,Fideos de pasta suave,Simple,-,-,100,-,200,5.8,25.1,0.9,0,0.11,0.05,0,0.51
+55,Pollo desmenuzado en caldo,Compuesto,Pollo,Caldo de verduras,85,165,250,15.8,2.1,2.2,42,0.18,0.43,0.17,0.64
+56,Galletas de arroz inflado,Simple,-,-,18,-,18,7.3,81.5,3.1,0,0.08,0.15,0,1.12
+57,Gelatina sin azúcar,Simple,-,-,100,-,100,1.6,0,0,0,0,0,0,0
+58,Leche entera,Simple,-,-,240,-,240,3.2,4.7,3.3,46,0.07,0.04,0.45,0.39
+59,Mantequilla de maní,Simple,-,-,32,-,32,25.1,20.0,50.0,0,4.93,0.18,0,2.51
+60,Frutos secos mixtos,Simple,-,-,28,-,28,17.8,18.2,52.5,0.8,8.32,0.28,0,2.94
+61,Pasas (frutas secas),Simple,-,-,40,-,40,3.1,79.2,0.5,0,0.12,0.17,0,0.22
+62,Guindones (frutas secas),Simple,-,-,40,-,40,1.4,63.9,0.4,64,0.35,0.05,0,0.11
+63,Pan de molde tostado,Simple,-,-,28,-,56,8.2,48.6,3.8,0,0.22,0.08,0,0.66
+64,Chicharrón de pescado,Simple,-,-,100,-,100,19.5,8.2,9.6,28,0.84,0.31,1.87,0.78
+65,Tamal peruano,Simple,-,-,150,-,150,6.1,28.5,5.2,28,0.23,0.08,0.05,0.60
+66,Choclo desgranado cocido,Simple,-,-,100,-,77,3.2,18.7,1.4,9,0.07,0.16,0,0.45
+67,Vainitas cocidas al vapor,Simple,-,-,100,-,125,1.8,7.0,0.1,35,0.41,0.07,0,0.24
+68,Espárragos cocidos al vapor,Simple,-,-,100,-,180,2.2,3.9,0.2,38,1.13,0.07,0,0.54
+69,Calabacín (zapallito italiano),Simple,-,-,100,-,196,1.2,3.1,0.3,10,0.12,0.16,0,0.32
+70,Coliflor al vapor,Simple,-,-,100,-,100,1.9,5.0,0.3,0,0.08,0.18,0,0.27
+71,Acelga cocida,Simple,-,-,100,-,175,1.9,3.7,0.2,306,1.89,0.12,0,0.36
+72,Cebolla,Simple,-,-,100,-,110,1.1,9.3,0.1,0,0.02,0.12,0,0.17
+73,Ají verde (pimiento),Simple,-,-,100,-,119,0.9,6.0,0.3,18,0.69,0.22,0,0.13
+74,Ajo,Simple,-,-,10,-,10,6.4,33.1,0.5,0,0.01,1.24,0,1.16
+75,Jengibre fresco,Simple,-,-,11,-,11,1.8,17.8,0.8,0,0.26,0.16,0,0.34

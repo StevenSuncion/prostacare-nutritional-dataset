@@ -1,0 +1,26 @@
+# Archivos temporales
+*.tmp
+*.bak
+~$*.xlsx
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user
